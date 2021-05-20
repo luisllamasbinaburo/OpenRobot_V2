@@ -46,3 +46,8 @@ More info about each module in Wiki
 - I2C GPIO ([Wiki link](https://github.com/luisllamasbinaburo/OpenRobot_V2/wiki/Module_I2C_GPIO))
 - I2C TOF ([Wiki link](https://github.com/luisllamasbinaburo/OpenRobot_V2/wiki/Module_I2C_TOF))
 - Mosfet ([Wiki link](https://github.com/luisllamasbinaburo/OpenRobot_V2/wiki/Module_Expansion_Mosfet))
+
+
+## TODO:
+- Finish documentation
+- Add code source / utilities (pinout, libraries...)
