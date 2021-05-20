@@ -25,23 +25,23 @@ Some of them,
 
 
 ## Modules
-
+More info about each module in Wiki
 <img src="https://github.com/luisllamasbinaburo/OpenRobot_V2/blob/main/Images/OpenRobot_V2_1.jpg" alt="Assembly" width="450"/>
 
 #### PowerSource
-- DC Converter
+- DC Converter ([Wiki link](https://github.com/luisllamasbinaburo/OpenRobot_V2/wiki/Module_I2C_GPIO))
 
 #### MCUs
-- Arduino Nano
-- ESP32 Embed
-- M5StickC / M5Stack Atom
+- Arduino Nano ([Wiki link](https://github.com/luisllamasbinaburo/OpenRobot_V2/wiki/Module_I2C_GPIO))
+- ESP32 Embed ([Wiki link](https://github.com/luisllamasbinaburo/OpenRobot_V2/wiki/Module_I2C_GPIO))
+- M5StickC / M5Stack Atom ([Wiki link](https://github.com/luisllamasbinaburo/OpenRobot_V2/wiki/Module_I2C_GPIO))
 
 #### Motors
-- DC Motors
-- Steppers
-- I2C Servos
+- DC Motors ([Wiki link](https://github.com/luisllamasbinaburo/OpenRobot_V2/wiki/Module_I2C_GPIO))
+- Steppers ([Wiki link](https://github.com/luisllamasbinaburo/OpenRobot_V2/wiki/Module_I2C_GPIO))
+- I2C Servos ([Wiki link](https://github.com/luisllamasbinaburo/OpenRobot_V2/wiki/Module_I2C_GPIO))
 
 #### Expansions
-- I2C GPIO
-- I2C TOF
-- Mosfet
+- I2C GPIO ([Wiki link](https://github.com/luisllamasbinaburo/OpenRobot_V2/wiki/Module_I2C_GPIO))
+- I2C TOF ([Wiki link](https://github.com/luisllamasbinaburo/OpenRobot_V2/wiki/Module_I2C_GPIO))
+- Mosfet ([Wiki link](https://github.com/luisllamasbinaburo/OpenRobot_V2/wiki/Module_I2C_GPIO))
