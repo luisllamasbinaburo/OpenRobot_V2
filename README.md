@@ -49,5 +49,5 @@ More info about each module in Wiki
 
 
 ## TODO:
-- Finish documentation
-- Add code source / utilities (pinout, libraries...)
+- Improve documentation
+- Improve code source / utilities (libraries, examples...)
