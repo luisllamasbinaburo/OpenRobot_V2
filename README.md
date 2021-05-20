@@ -1,6 +1,6 @@
 # OpenRobot v2
 
-<img src="https://github.com/luisllamasbinaburo/OpenRobot_V2/blob/main/Images/OpenRobot_V2.jpg" alt="Assembly" width="450"/>
+<img src="https://github.com/luisllamasbinaburo/OpenRobot_V2/blob/main/Images/openrobot_v2.jpg" alt="header"/>
 
 OpenRobot v2 is an Open Hardware PCB based on Arduino Nano, especially designed for teaching technology
 
