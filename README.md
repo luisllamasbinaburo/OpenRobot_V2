@@ -1,5 +1,7 @@
 # OpenRobot v2
 
+<img src="https://github.com/luisllamasbinaburo/OpenRobot_V2/blob/main/Images/OpenRobot_V2.jpg" alt="Assembly" width="450"/>
+
 OpenRobot v2 is an Open Hardware PCB based on Arduino Nano, especially designed for teaching technology
 
 Once assembled, you can use make multiple projects and robots without welding, just adding or removing components in the dupont headers.
