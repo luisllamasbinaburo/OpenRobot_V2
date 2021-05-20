@@ -26,6 +26,7 @@ Some of them,
 
 ## Modules
 More info about each module in Wiki
+
 <img src="https://github.com/luisllamasbinaburo/OpenRobot_V2/blob/main/Images/OpenRobot_V2_1.jpg" alt="Assembly" width="450"/>
 
 #### PowerSource
